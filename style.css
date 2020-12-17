@@ -1,0 +1,17 @@
+body{
+  background-color: #161b22 !important;
+  color: white !important;
+}
+
+.card{
+  color: black !important;
+}
+
+.bg-light{
+  background-color:  #ececec !important;
+}
+
+.row{
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
